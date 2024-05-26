@@ -31,4 +31,32 @@ echo hello world
 ```
 ~~~
 
+But what about blocks that just start with spaces?
+
+    This is some verbatim code.
+    :)
+    Hello.
+
+~~~
+This is some verbatim code.
+:)
+Hello.
+~~~
+
+> Here is something from an 80s email
+> with a bunch of lines.
+> I have to have arrow on every line.
+> - Foo
+> - Bar
+
+A horizontal line ( symantec seperator )
+
+----
+
+<!--
+Not rendered comment ?
+-->
+
+
+
 
