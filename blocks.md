@@ -57,6 +57,10 @@ A horizontal line ( symantec seperator )
 Not rendered comment ?
 -->
 
+Name|Favourite Colour
+| -   | - |
+Rob | Blue
+Neville | Blue
 
 
 
