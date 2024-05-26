@@ -4,6 +4,8 @@ Usually it is best to keep the main heading as the first line of the documents s
 
 Usually best to only have a single main heading per document.
 
+Just say no to the other types of headings
+
 ## Two for secondary heading
 
 Main division of content within a given document.
